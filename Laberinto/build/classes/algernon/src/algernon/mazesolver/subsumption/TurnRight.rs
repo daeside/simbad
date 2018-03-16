@@ -1,0 +1,1 @@
+algernon.mazesolver.subsumption.TurnRight
